@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W3CN7741
   title: བོད་ཀྱི་མི་སྣ་གྲགས་ཅན་གྱི་གཏམ་རྒྱུད། ༼༡༽
-  volume: ''
+  volume:
+    8e9424be31e74867bf14fc4a555b2e6b:
+      image_group_id: I1KG26427
+      title: Volume 1 of bod kyi mi sna grags can gyi gtam rgyud/ (1)
+      volume_number: 1
+      total_pages: 100
   author: ''
+ebook_metadata:
+  title: བོད་ཀྱི་མི་སྣ་གྲགས་ཅན་གྱི་གཏམ་རྒྱུད། ༼༡༽
+  author: ''
+  sku: P000445
+  cover: cover.jpg
+  layers:
+  - pagination
